@@ -1,4 +1,4 @@
 # scrapy_quotes
-Practice with Scrapy
+Exploring Scrapy
 
-I am getting some text to build a NLP model. This is a practice project.
+Will use to get text data to build a NLP model. This is a practice project.
